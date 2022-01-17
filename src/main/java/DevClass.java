@@ -5,5 +5,7 @@ public class DevClass {
         //SourceChanges
 
         System.out.println("feature1 - Changes from DevClass");
+
+        System.out.println("New DevClass");
     }
 }
