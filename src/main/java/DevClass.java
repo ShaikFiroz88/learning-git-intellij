@@ -7,5 +7,7 @@ public class DevClass {
         System.out.println("feature1 - Changes from DevClass");
 
         System.out.println("Master Changes");
+        
+        // Updating from Forked Branch
     }
 }
