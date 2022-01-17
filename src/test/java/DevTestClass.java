@@ -4,5 +4,7 @@ public class DevTestClass {
         //Test Class Comments
         //Test Changes
         //Test Changes -2
+
+        System.out.println("feature1 - Changes from DevTest Class");
     }
 }

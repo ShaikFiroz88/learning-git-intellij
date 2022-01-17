@@ -3,5 +3,7 @@ public class DevClass {
         System.out.println("Dev Class");
         //Dev Class Comments
         //SourceChanges
+
+        System.out.println("feature1 - Changes from DevClass");
     }
 }
